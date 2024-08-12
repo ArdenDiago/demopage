@@ -1,1 +1,4 @@
-Song - Artist\n\n=============
+Song - Artist
+=============
+SOS - ABBA
+One of Us - ABBA
