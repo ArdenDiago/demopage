@@ -2,3 +2,56 @@ Song - Artist
 =============
 SOS - ABBA
 One of Us - ABBA
+../
+├── Commiting_Basics
+│   └── Shoping
+│       ├── groceries.txt
+│       └── yard.txt
+├── gitDemo
+│   ├── index.js
+│   ├── node_modules
+│   │   ├── js-tokens
+│   │   │   ├── CHANGELOG.md
+│   │   │   ├── index.js
+│   │   │   ├── LICENSE
+│   │   │   ├── package.json
+│   │   │   └── README.md
+│   │   ├── loose-envify
+│   │   │   ├── cli.js
+│   │   │   ├── custom.js
+│   │   │   ├── index.js
+│   │   │   ├── LICENSE
+│   │   │   ├── loose-envify.js
+│   │   │   ├── package.json
+│   │   │   ├── README.md
+│   │   │   └── replace.js
+│   │   └── react
+│   │       ├── cjs
+│   │       │   ├── react.development.js
+│   │       │   ├── react-jsx-dev-runtime.development.js
+│   │       │   ├── react-jsx-dev-runtime.production.min.js
+│   │       │   ├── react-jsx-dev-runtime.profiling.min.js
+│   │       │   ├── react-jsx-runtime.development.js
+│   │       │   ├── react-jsx-runtime.production.min.js
+│   │       │   ├── react-jsx-runtime.profiling.min.js
+│   │       │   ├── react.production.min.js
+│   │       │   ├── react.shared-subset.development.js
+│   │       │   └── react.shared-subset.production.min.js
+│   │       ├── index.js
+│   │       ├── jsx-dev-runtime.js
+│   │       ├── jsx-runtime.js
+│   │       ├── LICENSE
+│   │       ├── package.json
+│   │       ├── react.shared-subset.js
+│   │       ├── README.md
+│   │       └── umd
+│   │           ├── react.development.js
+│   │           ├── react.production.min.js
+│   │           └── react.profiling.min.js
+│   ├── package.json
+│   ├── package-lock.json
+│   └── secrets.txt
+└── RodtripPlaylist
+    └── playlist.txt
+
+11 directories, 40 files
